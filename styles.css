@@ -22,8 +22,13 @@ p {
   border: 4px blue;
 }
 
-img{
-	width: 50px;
-	height: 80px;
+img1{
+	width: 120px;
+	height: 120px;
+}
+
+img2{
+width: 200px;
+height: 120px;
 }
 </style>
